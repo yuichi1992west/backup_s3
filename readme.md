@@ -1,7 +1,7 @@
 backup_s3
 ====
 
-# Overview
+## Overview
 This script uploads a local file to AWS S3 using the AWS CLI. Compatible with Window10 and CentOS8.
 
 ## Description
@@ -32,8 +32,6 @@ Open a terminal (root authority) and execute `backup_s3.sh`.
 * Please confirm the following URL for Japanese explanation.
 * https://qiita.com/yuichi1992_west/items/03d24cd7e74c9b02f4d8
 * https://qiita.com/yuichi1992_west/items/85f9df3a164b765ce9f9
-
-## Contribution
 
 ## Licence
 
